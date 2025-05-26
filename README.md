@@ -26,9 +26,9 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## Related Work in Nematode Review
 
-Recent advances in scene image representation and classification  
-[[PDF](https://doi.org/10.1007/s11042-023-15005-9)]
-
+- Soybean cyst nematode detection and management: a review 
+[[PDF]([https://doi.org/10.1007/s11042-023-15005-9](https://doi.org/10.1186/s13007-022-00933-8])
+-  A survey on applications of deep learning in microscopy image analysis[link]([https://doi.org/10.1016/j.compbiomed.2021.104523])
 ---
 
 ## Traditional Image Analysis Methods
