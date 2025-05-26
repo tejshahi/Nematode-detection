@@ -13,7 +13,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## Table of Contents
 
-- [Related Work in Nematode Review](#related-work-in-nematode-review)  
+  - [Related Work in Nematode Review](#related-work-in-nematode-review)  
   - [Traditional Image Analysis Methods](#traditional-image-analysis-methods)  
   - [ML-based Methods](#ml-based-methods)  
   - [DL-based Methods](#dl-based-methods)  
@@ -26,10 +26,11 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## Related Work in Nematode Review
 
-- Soybean cyst nematode detection and management: a review 
-[[PDF]([https://doi.org/10.1007/s11042-023-15005-9](https://doi.org/10.1186/s13007-022-00933-8])
--  A survey on applications of deep learning in microscopy image analysis[link]([https://doi.org/10.1016/j.compbiomed.2021.104523])
----
+- [Soybean cyst nematode detection and management: a review](https://doi.org/10.1186/s13007-022-00933-8) [PDF]
+- [A survey on applications of deep learning in microscopy image analysis](https://doi.org/10.1016/j.compbiomed.2021.104523)[LInk]
+- [A state-of-the-art survey of object detection techniques in microorganism image analysis: from classical methods to deep learning approaches](https://doi.org/10.1007/s10462-022-10209-1)[link]
+- [Emerging Trends and Technologies Used for the Identification, Detection, and Characterisation of Plant-Parasitic Nematode Infestation in Crops](https://doi.org/10.3390/plants13213041)[Link]
+
 
 ## Traditional Image Analysis Methods
 
