@@ -39,6 +39,8 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - High throughput nematode counting with automated image processing. [Link](https://doi.org/10.1007/s10526-015-9703-2)
 - A low-cost and open-source solution to automate imaging and analysis of cyst nematode infection assays for Arabidopsis thaliana. [Link](https://doi.org/10.1186/s13007-022-00963-2)
 - Impact Assessment of Nematode Infestation on Soybean Crop Production Using Aerial Multispectral Imagery and Machine Learning.[Link](https://doi.org/10.3390/app14135482)
+- Using image analysis for counting larvae of potato cyst nematodes (Globodera spp.) [PDF](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/fan/010005634.pdf)
+- WormSizer: high-throughput analysis of nematode size and shape.[Link](https://doi.org/10.1371/journal.pone.0057142)
 > * more content for this section to be added*
 
 ---
