@@ -47,10 +47,10 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## ML-based Methods
 
-- Self-training with Noisy Student improves ImageNet classification [[PDF](https://arxiv.org/abs/1911.04252)]  
-- FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[PDF](https://arxiv.org/pdf/2001.07685v2)]  
-- Contrastive Regularization for Semi-Supervised Learning [[PDF](https://arxiv.org/pdf/2201.06247v2)]  
-- SimMatch: Semi-supervised Learning with Similarity Matching [[PDF](https://arxiv.org/pdf/2203.06915v2)]
+- Identifying Nematode Damage on Soybean through Remote Sensing and Machine Learning Techniques [Link](https://www.mdpi.com/2073-4395/12/10/2404)  
+- Machine learning algorithms accurately identify free-living marine nematode species [Link](https://peerj.com/articles/16216/)
+- Instance Segmentation of Nematode Cysts in Microscopic Images of Soil Samples[link](https://doi.org/10.1109/embc.2019.8856567) 
+- Distinguishing Cyst Nematode Species Using Image Textures and Artificial Neural Networks [link](https://doi.org/10.3390/agronomy13092277)
 
 ---
 
