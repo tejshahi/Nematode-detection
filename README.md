@@ -51,6 +51,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Machine learning algorithms accurately identify free-living marine nematode species [Link](https://peerj.com/articles/16216/)
 - Instance Segmentation of Nematode Cysts in Microscopic Images of Soil Samples[link](https://doi.org/10.1109/embc.2019.8856567) 
 - Distinguishing Cyst Nematode Species Using Image Textures and Artificial Neural Networks [link](https://doi.org/10.3390/agronomy13092277)
+- Utilizing Image Recognition Methods for the Identification and Counting of Live Nematodes in Petri Dishes. [Link](http://dx.doi.org/10.1109/ICCC62069.2024.10569308)
 
 ---
 
