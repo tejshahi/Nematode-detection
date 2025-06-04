@@ -69,6 +69,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ### Object Detection
 - Root-YOLOv7: Multi-scale adaptive object detection and grading of root-knot nematode disease.[Link](https://doi.org/10.25165/j.ijabe.20251802.9414)
+- Detection of Infective Juvenile Stage of Entomopathogenic Nematodes Using Deep Learning [Link] (https://doi.org/10.1109/IBDAP62940.2024.10689709).
 > *Content for this section to be added*
 
 ---
