@@ -51,7 +51,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Machine learning algorithms accurately identify free-living marine nematode species [Link](https://peerj.com/articles/16216/)
 - Instance Segmentation of Nematode Cysts in Microscopic Images of Soil Samples[link](https://doi.org/10.1109/embc.2019.8856567) 
 - Distinguishing Cyst Nematode Species Using Image Textures and Artificial Neural Networks [link](https://doi.org/10.3390/agronomy13092277)
-- Utilizing Image Recognition Methods for the Identification and Counting of Live Nematodes in Petri Dishes. [Link](http://dx.doi.org/10.1109/ICCC62069.2024.10569308)
+- Utilising Image Recognition Methods for the Identification and Counting of Live Nematodes in Petri Dishes. [Link](http://dx.doi.org/10.1109/ICCC62069.2024.10569308)
 - The Smart Soil Organism Detector: An instrument and machine learning pipeline for soil species identification[Link](https://doi.org/10.1016/j.bios.2022.114417)
 - 
 - > * more content for this section to be added*
@@ -59,7 +59,8 @@ This repo includes the research papers in DL and ML for nematode detection and c
 ## DL-based Methods
 
 ### Image Segmentation
-
+- Aerial Image Segmentation of Nematode-Affected Pine Trees with U-Net Convolutional Neural Network.[Link](https://doi.org/10.3390/app14125087)
+- 
 > *Content for this section to be added*
 
 ### Image Classification
@@ -67,7 +68,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 > *Content for this section to be added*
 
 ### Object Detection
-
+- Root-YOLOv7: Multi-scale adaptive object detection and grading of root-knot nematode disease.[Link](https://doi.org/10.25165/j.ijabe.20251802.9414)
 > *Content for this section to be added*
 
 ---
