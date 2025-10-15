@@ -57,7 +57,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Hyperspectral Reflectance and Machine Learning Approaches for the Detection of Drought and Root–Knot Nematode Infestation in Cotton [link](https://doi.org/10.3390/rs14164021)
 - The Smart Soil Organism Detector: An instrument and machine learning pipeline for soil species identification[Link](https://doi.org/10.1016/j.bios.2022.114417)
 - A low-cost proximate sensing method for early detection of nematodes in walnut using Walabot and scikit-learn classification algorithms[Link](https://doi.org/10.1117/12.2558214)
-- > * more content for this section to be added*
+- > * more content will be added as updated*
 
 ## DL-based Methods
 ### Image Classification
@@ -65,10 +65,10 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Nematode Identification using Artificial Neural Networks [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0009776600130022)
 - NemaNet: A convolutional neural network model for identification of soybean nematodes[link](https://doi.org/10.1016/j.biosystemseng.2021.11.016)
 - NemaRec: A deep learning-based web application for nematode image identification and ecological indices calculation [Link](https://doi.org/10.1016/j.ejsobi.2022.103408)
-- I-nema: A large-scale microscopic image dataset for nematode recognition [Link]()
+- I-nema: A large-scale microscopic image dataset for nematode recognition [Link](https://doi.org/10.1007/s00521-024-10687-0)
+- Image-based species identification of Globodera quarantine nematodes using computer vision and deep learning [Link](https://doi.org/10.1016/j.compag.2021.106058)
 - Development of a Deep Learning-Assisted Mobile Application for the Identification of Nematodes Through Microscopic Images[link](https://doi.org/10.1002/moda.70000)
-- 
-> *Content for this section to be added*
+- > *more content will be added as updated*
 > 
 ### Image Segmentation
 - Aerial Image Segmentation of Nematode-Affected Pine Trees with U-Net Convolutional Neural Network.[Link](https://doi.org/10.3390/app14125087)
