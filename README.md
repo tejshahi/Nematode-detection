@@ -13,8 +13,8 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## Table of Contents
 
-  - [Related Work in Nematode Review](#related-work-in-nematode-review)
-  - [Nematode datasets](#Nematode-dataset)  
+  - [Review work on Nematode detection](#related-work-in-nematode-review)
+  - [Nematode dataset and paper](#Nematode-dataset)  
   - [Traditional Image Analysis Methods](#traditional-image-analysis-methods)  
   - [ML-based Methods](#ml-based-methods)  
   - [DL-based Methods](#dl-based-methods)  
