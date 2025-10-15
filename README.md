@@ -24,13 +24,13 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ---
 
-## Related Work in Nematode Review
+## Review work on Nematode detection
 
 - Soybean cyst nematode detection and management: a review. [Link](https://doi.org/10.1186/s13007-022-00933-8)
 - A survey on applications of deep learning in microscopy image analysis. [Link](https://doi.org/10.1016/j.compbiomed.2021.104523)
 - A state-of-the-art survey of object detection techniques in microorganism image analysis: from classical methods to deep learning approaches. [link](https://doi.org/10.1007/s10462-022-10209-1)
 - Emerging Trends and Technologies Used for the Identification, Detection, and Characterisation of Plant-Parasitic Nematode Infestation in Crops. [link](https://doi.org/10.3390/plants13213041)
-
+- Advances in nematode identification: A journey from fundamentals to evolutionary aspects.[link](https://doi.org/10.3390/d14070536)
 
 ## Traditional Image Analysis Methods
 - Detection and quantification of root-knot nematode (meloidogyne spp.) eggs from tomato plants using image analysis. [link](https://doi.org/10.1109/ACCESS.2022.3223707)
@@ -77,7 +77,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ---
 
-## Others
+## Others related works
 
 > *Content for this section to be added*
 
