@@ -12,7 +12,6 @@ This repo includes the research papers in DL and ML for nematode detection and c
 ---
 
 ## Table of Contents
-
   - [Review work on Nematode detection](#related-work-in-nematode-review)
   - [Nematode dataset and paper](#Nematode-dataset)  
   - [Traditional Image Analysis Methods](#traditional-image-analysis-methods)  
@@ -26,7 +25,6 @@ This repo includes the research papers in DL and ML for nematode detection and c
 ---
 
 ## Review work on Nematode detection
-
 - Soybean cyst nematode detection and management: a review. [Link](https://doi.org/10.1186/s13007-022-00933-8)
 - A survey on applications of deep learning in microscopy image analysis. [Link](https://doi.org/10.1016/j.compbiomed.2021.104523)
 - A state-of-the-art survey of object detection techniques in microorganism image analysis: from classical methods to deep learning approaches. [link](https://doi.org/10.1007/s10462-022-10209-1)
@@ -35,7 +33,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## Nematode dataset and paper
 - Plant-Parasitic Nematodes dataset [Link](https://data.mendeley.com/datasets/cck8yxj3xw/2), Paper [Link](https://doi.org/10.1016/j.aiia.2022.12.002)
-- 
+- I-nema dataset [Link](https://github.com/xuequanlu/I-Nema), paper[Link] (https://arxiv.org/abs/2103.08335)
 ## Traditional Image Analysis Methods
 - Detection and quantification of root-knot nematode (meloidogyne spp.) eggs from tomato plants using image analysis. [link](https://doi.org/10.1109/ACCESS.2022.3223707)
 - Quantification of Root-Knot Nematode Infestation in Tomato Using Digital Image Analysis. [Link](https://doi.org/10.3390/agronomy11122372)
@@ -51,7 +49,6 @@ This repo includes the research papers in DL and ML for nematode detection and c
 ---
 
 ## ML-based Methods
-
 - Identifying Nematode Damage on Soybean through Remote Sensing and Machine Learning Techniques [Link](https://www.mdpi.com/2073-4395/12/10/2404)  
 - Machine learning algorithms accurately identify free-living marine nematode species [Link](https://peerj.com/articles/16216/)
 - Instance Segmentation of Nematode Cysts in Microscopic Images of Soil Samples[link](https://doi.org/10.1109/embc.2019.8856567) 
@@ -67,7 +64,10 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Deep learning models for automatic identification of plant-parasitic nematode [link](https://doi.org/10.1016/j.aiia.2022.12.002)
 - Nematode Identification using Artificial Neural Networks [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0009776600130022)
 - NemaNet: A convolutional neural network model for identification of soybean nematodes[link](https://doi.org/10.1016/j.biosystemseng.2021.11.016)
+- NemaRec: A deep learning-based web application for nematode image identification and ecological indices calculation [Link](https://doi.org/10.1016/j.ejsobi.2022.103408)
+- I-nema: A large-scale microscopic image dataset for nematode recognition [Link]()
 - Development of a Deep Learning-Assisted Mobile Application for the Identification of Nematodes Through Microscopic Images[link](https://doi.org/10.1002/moda.70000)
+- 
 > *Content for this section to be added*
 > 
 ### Image Segmentation
