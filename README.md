@@ -17,8 +17,8 @@ This repo includes the research papers in DL and ML for nematode detection and c
   - [Traditional Image Analysis Methods](#traditional-image-analysis-methods)  
   - [ML-based Methods](#ml-based-methods)  
   - [DL-based Methods](#dl-based-methods)  
-    - [Image Segmentation](#image-segmentation)  
-    - [Image Classification](#image-classification)  
+    - [Image Classification](#image-classification)
+    - [Image Segmentation](#image-segmentation)    
     - [Object Detection](#object-detection)  
   - [Others](#others)
 
@@ -59,7 +59,10 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - > * more content for this section to be added*
 
 ## DL-based Methods
-
+### Image Classification
+- Development of a Deep Learning-Assisted Mobile Application for the Identification of Nematodes Through Microscopic Images[link](https://doi.org/10.1002/moda.70000)
+> *Content for this section to be added*
+> 
 ### Image Segmentation
 - Aerial Image Segmentation of Nematode-Affected Pine Trees with U-Net Convolutional Neural Network.[Link](https://doi.org/10.3390/app14125087)
 - Identifying pine wood nematode disease using UAV images and deep learning algorithms [Link](https://doi.org/10.3390/rs13020162)
@@ -67,11 +70,6 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Analysis of nematodes in coffee crops at different altitudes using aerial images[link](https://doi.org/10.23919/EUSIPCO.2019.8902734)
 
 > *Content for this section to be added*
-
-### Image Classification
-- Development of a Deep Learning-Assisted Mobile Application for the Identification of Nematodes Through Microscopic Images[link](https://doi.org/10.1002/moda.70000)
-> *Content for this section to be added*
-
 ### Object Detection
 - Root-YOLOv7: Multi-scale adaptive object detection and grading of root-knot nematode disease.[Link](https://doi.org/10.25165/j.ijabe.20251802.9414)
 - Detection of Infective Juvenile Stage of Entomopathogenic Nematodes Using Deep Learning [Link](https://doi.org/10.1109/IBDAP62940.2024.10689709).
