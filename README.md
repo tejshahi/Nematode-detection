@@ -41,7 +41,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Impact Assessment of Nematode Infestation on Soybean Crop Production Using Aerial Multispectral Imagery and Machine Learning.[Link](https://doi.org/10.3390/app14135482)
 - Using image analysis for counting larvae of potato cyst nematodes (Globodera spp.) [PDF](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/fan/010005634.pdf)
 - WormSizer: high-throughput analysis of nematode size and shape.[Link](https://doi.org/10.1371/journal.pone.0057142)
-> * more content for this section to be added*
+> * more content will be added as updated*
 
 ---
 
