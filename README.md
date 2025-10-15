@@ -60,7 +60,9 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## DL-based Methods
 ### Image Classification
--Deep learning models for automatic identification of plant-parasitic nematode [link](https://doi.org/10.1016/j.aiia.2022.12.002)
+- Deep learning models for automatic identification of plant-parasitic nematode [link](https://doi.org/10.1016/j.aiia.2022.12.002)
+- Nematode Identification using Artificial Neural Networks [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0009776600130022)
+- NemaNet: A convolutional neural network model for identification of soybean nematodes[link](https://doi.org/10.1016/j.biosystemseng.2021.11.016)
 - Development of a Deep Learning-Assisted Mobile Application for the Identification of Nematodes Through Microscopic Images[link](https://doi.org/10.1002/moda.70000)
 > *Content for this section to be added*
 > 
