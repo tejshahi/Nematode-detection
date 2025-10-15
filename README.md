@@ -34,6 +34,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 ## Nematode dataset and paper
 - Plant-Parasitic Nematodes dataset [Link](https://data.mendeley.com/datasets/cck8yxj3xw/2), Paper [Link](https://doi.org/10.1016/j.aiia.2022.12.002)
 - I-nema dataset [Link](https://github.com/xuequanlu/I-Nema), paper[Link] (https://arxiv.org/abs/2103.08335)
+- C. Elegans dataset [Link] (https://zenodo.org/records/5144802), paper [Link](https://www.mdpi.com/2079-6374/11/8/257)
 ## Traditional Image Analysis Methods
 - Detection and quantification of root-knot nematode (meloidogyne spp.) eggs from tomato plants using image analysis. [link](https://doi.org/10.1109/ACCESS.2022.3223707)
 - Quantification of Root-Knot Nematode Infestation in Tomato Using Digital Image Analysis. [Link](https://doi.org/10.3390/agronomy11122372)
@@ -75,6 +76,7 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Aerial Image Segmentation of Nematode-Affected Pine Trees with U-Net Convolutional Neural Network.[Link](https://doi.org/10.3390/app14125087)
 - An Algorithm Based on Attention Mask for Fine-grained Object Detection [Link](https://doi.org/10.1109/CTISC52352.2021.00065)
 - Analysis of nematodes in coffee crops at different altitudes using aerial images[link](https://doi.org/10.23919/EUSIPCO.2019.8902734)
+- Mask R-CNN-based C. elegans detection with a DIY microscope [Link](https://doi.org/10.3390/bios11080257)
 
 > *Content for this section to be added*
 ### Object Detection
