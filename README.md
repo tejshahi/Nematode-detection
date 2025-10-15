@@ -13,7 +13,8 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 ## Table of Contents
 
-  - [Related Work in Nematode Review](#related-work-in-nematode-review)  
+  - [Related Work in Nematode Review](#related-work-in-nematode-review)
+  - [Nematode datasets](#Nematode-dataset)  
   - [Traditional Image Analysis Methods](#traditional-image-analysis-methods)  
   - [ML-based Methods](#ml-based-methods)  
   - [DL-based Methods](#dl-based-methods)  
@@ -32,6 +33,9 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - Emerging Trends and Technologies Used for the Identification, Detection, and Characterisation of Plant-Parasitic Nematode Infestation in Crops. [link](https://doi.org/10.3390/plants13213041)
 - Advances in nematode identification: A journey from fundamentals to evolutionary aspects.[link](https://doi.org/10.3390/d14070536)
 
+## Nematode dataset and paper
+- Plant-Parasitic Nematodes dataset [Link](https://data.mendeley.com/datasets/cck8yxj3xw/2), Paper [Link](https://doi.org/10.1016/j.aiia.2022.12.002)
+- 
 ## Traditional Image Analysis Methods
 - Detection and quantification of root-knot nematode (meloidogyne spp.) eggs from tomato plants using image analysis. [link](https://doi.org/10.1109/ACCESS.2022.3223707)
 - Quantification of Root-Knot Nematode Infestation in Tomato Using Digital Image Analysis. [Link](https://doi.org/10.3390/agronomy11122372)
