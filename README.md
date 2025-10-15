@@ -71,8 +71,8 @@ This repo includes the research papers in DL and ML for nematode detection and c
 - > *more content will be added as updated*
 > 
 ### Image Segmentation
-- Aerial Image Segmentation of Nematode-Affected Pine Trees with U-Net Convolutional Neural Network.[Link](https://doi.org/10.3390/app14125087)
 - Identifying pine wood nematode disease using UAV images and deep learning algorithms [Link](https://doi.org/10.3390/rs13020162)
+- Aerial Image Segmentation of Nematode-Affected Pine Trees with U-Net Convolutional Neural Network.[Link](https://doi.org/10.3390/app14125087)
 - An Algorithm Based on Attention Mask for Fine-grained Object Detection [Link](https://doi.org/10.1109/CTISC52352.2021.00065)
 - Analysis of nematodes in coffee crops at different altitudes using aerial images[link](https://doi.org/10.23919/EUSIPCO.2019.8902734)
 
