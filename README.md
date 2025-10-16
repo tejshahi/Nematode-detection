@@ -82,8 +82,16 @@ This repo includes the research papers in DL and ML for nematode detection and c
 ### Object Detection
 - A deep learning framework to discern and count microscopic nematode eggs. [link](https://doi.org/10.1038/s41598-018-27272-w)
 - A CNN framework based on line annotations for detecting nematodes in microscopic images. [Link](https://doi.org/10.1109/ISBI45749.2020.9098465)
+- Detection of Infective Juvenile Stage of Entomopathogenic Nematodes Using Deep Learning. [Link](https://doi.org/10.1109/IBDAP62940.2024.10689709)
+- Detection and counting of root-knot nematodes using YOLO models with mosaic augmentation. [Link](https://doi.org/10.1016/j.biosx.2023.100407)
+- Plant parasitic nematode identification in complex samples with deep learning. [Link](https://doi.org/10.2478/jofnem-2023-0045)
+- Identifying pine wood nematode disease using UAV images and deep learning algorithms. [Link](https://doi.org/10.3390/rs13020162)
+- Efficient dead pine tree detecting method in the Forest damaged by pine wood nematode (Bursaphelenchus xylophilus) through utilising unmanned aerial vehicles and deep learning-based object detection techniques. [Link](https://doi.org/10.1080/21580103.2022.2048900)
+- A spatio-temporal multi-scale fusion algorithm for pine wood nematode disease tree detection.[Link](https://doi.org/10.1007/s11676-024-01754-2)
+- Counting nematodes made easy: leveraging AI-powered automation for enhanced efficiency and precision. [Link](https://doi.org/10.3389/fpls.2024.1349209)
+- Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning. [Link](https://doi.org/10.1109/TrustCom60117.2023.00344)
+- Identification of Pine Wilt-Diseased Trees Using UAV Remote Sensing Imagery and Improved PWD-YOLOv8n Algorithm. [Link](https://doi.org/10.3390/drones8080404)
 - Root-YOLOv7: Multi-scale adaptive object detection and grading of root-knot nematode disease.[Link](https://doi.org/10.25165/j.ijabe.20251802.9414)
-- Detection of Infective Juvenile Stage of Entomopathogenic Nematodes Using Deep Learning. [Link](https://doi.org/10.1109/IBDAP62940.2024.10689709).
 > *Content for this section to be added*
 
 ---
