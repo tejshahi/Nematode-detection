@@ -80,9 +80,10 @@ This repo includes the research papers in DL and ML for nematode detection and c
 
 > *Content for this section to be added*
 ### Object Detection
-- A deep learning framework to discern and count microscopic nematode eggs[link](https://doi.org/10.1038/s41598-018-27272-w)
+- A deep learning framework to discern and count microscopic nematode eggs. [link](https://doi.org/10.1038/s41598-018-27272-w)
+- A CNN framework based on line annotations for detecting nematodes in microscopic images. [Link](https://doi.org/10.1109/ISBI45749.2020.9098465)
 - Root-YOLOv7: Multi-scale adaptive object detection and grading of root-knot nematode disease.[Link](https://doi.org/10.25165/j.ijabe.20251802.9414)
-- Detection of Infective Juvenile Stage of Entomopathogenic Nematodes Using Deep Learning [Link](https://doi.org/10.1109/IBDAP62940.2024.10689709).
+- Detection of Infective Juvenile Stage of Entomopathogenic Nematodes Using Deep Learning. [Link](https://doi.org/10.1109/IBDAP62940.2024.10689709).
 > *Content for this section to be added*
 
 ---
