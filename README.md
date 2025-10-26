@@ -3,7 +3,7 @@
 This repo supplements the paper titled **[Nematode Detection and Classification Using Machine Learning Techniques: A Review](https://www.mdpi.com/2073-4395/15/11/2481)**  
 **Author:** Arjun Neupane, Tej Bahadur Shahi, Richard Koech, Kerry Walsh and Philip Kibet Langat
 
-This repo includes the research papers in DL and ML for nematode detection and classification, which are included in our review [paper]().
+This repo includes the research papers in DL and ML for nematode detection and classification, which are included in our review [paper](https://www.mdpi.com/2073-4395/15/11/2481).
 
 <p align="center">
 <img src="Figure1.png" width="800">
